@@ -4,17 +4,15 @@
   "main": "dist/index.js",
   "author": "Ayrton Souza",
   "license": "ISC",
-  "repository": "git://github.com/credulab/credesign.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/credulab/credesign"
+  },
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build": "tsc -p .",
     "fix:lint": "eslint ./src/**/* --fix --ext .tsx,.ts"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com",
-    "tag": "latest"
   },
   "dependencies": {
     "polished": "^3.5.1",
