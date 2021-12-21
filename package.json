@@ -1,6 +1,6 @@
 {
   "name": "@credulab/credesign",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "author": "Ayrton Souza",
   "license": "ISC",
@@ -13,7 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/credulab/credesign"
+    "url": "https://github.com/credulab/credesign.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",
