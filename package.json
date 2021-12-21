@@ -1,9 +1,9 @@
 {
   "name": "@credulab/credesign",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "author": "Ayrton Souza",
-  "license": "MIT",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/credulab/credesign"
