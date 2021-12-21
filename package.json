@@ -1,9 +1,16 @@
 {
   "name": "@credulab/credesign",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "author": "Ayrton Souza",
   "license": "ISC",
+  "keywords": [
+    "Design System",
+    "UIKit",
+    "Credu",
+    "Credulab",
+    "Credesign"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/credulab/credesign"
