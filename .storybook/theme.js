@@ -17,5 +17,5 @@ export default create({
 
   brandTitle: 'Credesign',
   brandUrl: 'https://credu.com.br/',
-  brandImage: 'https://user-images.githubusercontent.com/30063455/146852734-93b1846c-e4ad-415d-a69f-08381c978c4b.png'
+  brandImage: 'https://user-images.githubusercontent.com/30063455/146866367-b5d06b53-4779-4983-8527-45ec2c6eb463.png'
 });
